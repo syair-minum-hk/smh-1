@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-minum-hk.github.io/smh-1/sitemap.xml
